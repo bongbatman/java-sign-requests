@@ -1,3 +1,5 @@
+Writer’s note: *For the latest updates on mobile app security, make sure to check out our [Verification SDK] (hypertext https://www.sinch.com/products/verification/sms-verification/).*
+
 #Send SMS in Java
 
 This tutorial will walk you through building a simple Java project that uses Sinch to sign a request to [send an SMS](https://www.sinch.com/products/sms-api/). Why sign your requests instead of using basic authentication? It's much more secure and Sinch doesn't support basic authentication for production applications. 
